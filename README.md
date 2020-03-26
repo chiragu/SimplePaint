@@ -4,4 +4,4 @@ A GUI based Java app with a simple graphic buffer to draw like in Paint.
 
 ## Authors
 
-* **Chirag Uttamsingh**
+* **Chirag U**
